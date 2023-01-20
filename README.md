@@ -1,4 +1,4 @@
 # Bus-Management
 website on Bus 
-check out readme pdf in the files
+check out output of the website in output.pdf 
 
